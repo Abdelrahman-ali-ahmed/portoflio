@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portoflio/static/css/main.c06b4246.css",
+    "main.js": "/portoflio/static/js/main.547cbcac.js",
+    "static/media/boody.jpg": "/portoflio/static/media/boody.8f5da4751c87f5d3da21.jpg",
+    "static/media/Screenshot (12).png": "/portoflio/static/media/Screenshot (12).d8bd4326cc4cd234f488.png",
+    "static/media/Screenshot (17).png": "/portoflio/static/media/Screenshot (17).a3c528db39038ee155e9.png",
+    "static/media/Screenshot (16).png": "/portoflio/static/media/Screenshot (16).fa835b11ad3aa14043cb.png",
+    "index.html": "/portoflio/index.html",
+    "main.c06b4246.css.map": "/portoflio/static/css/main.c06b4246.css.map",
+    "main.547cbcac.js.map": "/portoflio/static/js/main.547cbcac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c06b4246.css",
+    "static/js/main.547cbcac.js"
+  ]
+}
